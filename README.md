@@ -1,6 +1,7 @@
 # XcodeGhost
 "XcodeGhost" Source
 关于所谓”XcodeGhost”的澄清
+
 首先，我为XcodeGhost事件给大家带来的困惑致歉。XcodeGhost源于我自己的实验，没有任何威胁性行为，详情见源代码:https://github.com/XcodeGhostSource/XcodeGhost
 
 所谓的XcodeGhost实际是苦逼iOS开发者的一次意外发现：修改Xcode编译配置文本可以加载指定的代码文件，于是我写下上述附件中的代码去尝试，并上传到自己的网盘中。
