@@ -1,6 +1,7 @@
 # XcodeGhost
 "XcodeGhost" Source
-关于所谓”XcodeGhost”的澄清
+
+### 关于所谓”XcodeGhost”的澄清
 
 首先，我为XcodeGhost事件给大家带来的困惑致歉。XcodeGhost源于我自己的实验，没有任何威胁性行为，详情见源代码:https://github.com/XcodeGhostSource/XcodeGhost
 
@@ -13,3 +14,23 @@
 需要强调的是，XcodeGhost不会影响任何App的使用，更不会获取隐私数据，仅仅是一段已经死亡的代码。
 
 再次真诚的致歉，愿大家周末愉快
+
+
+----
+
+### Clarification for XcodeGhost
+
+I apologize for bringing confusion to the community about XcodeGhost event. XcodeGhost is originated from my own experiment without malicious behavior, and the source code is here https://github.com/XcodeGhostSource/XcodeGhost
+
+The so called XcodeGhost is actually our fucking fucked developers' accidental discovery which is that changing compiling configuration for Xcode enables us to load specific code snippet.
+Then I wrote the code as what is in this repository and uploaded to my own online disk.
+The information accessed by this code is only basic App information without any exception: Application Name, Application Version Number, IOS Version Number, Language, Country Name, Developer ID, Device Name, Device Type. 
+What needs to be pointed here is that, I selfishly injected code for advertising my own App which can be verified by comparing the source code here.
+However, I never used the advertising function from starting the server to shutting it down. 
+And 10 days ago, I had already shut down the server and deleted all gathered data. It will never affect any one.
+I wish that rumors could stopped by truth, that so called "XcodeGhost" was just an experiment by mistake, and it will be dead code from now on.
+I also want to emphasize that XcodeGhost doesn't affect usage of any App, let alone accessing user's privacy information. 
+
+It's just a piece of dead code.
+
+Wish all of you a good weekend, with my sincere apology again!
